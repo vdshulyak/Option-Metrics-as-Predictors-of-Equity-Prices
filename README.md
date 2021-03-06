@@ -1,5 +1,7 @@
 ![Alt Text](R9571cbe0059b3befb09c173e6e150359 (1).png)
 
+![Alt Text](https://picpedia.org/finance/images/stock-options.jpg)
+
 # FinTech_Group6
 Repo For Project 1
 
