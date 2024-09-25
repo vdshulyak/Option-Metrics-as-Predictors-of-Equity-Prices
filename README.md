@@ -35,4 +35,4 @@ Repo For Project 1
 3) Clean datas
 4) Build graphs
 5) Analyze Results
-6) Conculsion
+6) Conclusion
